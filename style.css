@@ -33,10 +33,11 @@ section {
     background-color: #f4f4f4;
 }
 
-section#home {
-    background: url('your-image-url.jpg') no-repeat center center/cover;
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
     color: white;
-    height: 300px;
 }
 
 h1, h2 {
